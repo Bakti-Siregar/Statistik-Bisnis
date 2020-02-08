@@ -1,6 +1,6 @@
 # Kata Pengantar:
   
-Repositori ini digunakan selama kuliah **[Statistik Bisnis](https://github.com/Bakti-Siregar/Statistik-Bisnis)**, semua materi disusun dengan koding R, Menggunakan M.S Exel, dan SPSS. Jadi Anda diharapkan untuk sering melatihnya dirumah supaya anda familiar dan memahaminya dengan baik. 
+Repositori ini digunakan selama kuliah [**Statistik Bisnis**](https://github.com/Bakti-Siregar/Statistik-Bisnis), semua materi disusun dengan koding **R**, Menggunakan **MS. Exel**, dan **SPSS**. Jadi Anda diharapkan untuk sering melatihnya dirumah supaya anda familiar dan memahaminya dengan baik. 
 
 # Persiapan :
 > 1. [Install R](https://cran.r-project.org/)
