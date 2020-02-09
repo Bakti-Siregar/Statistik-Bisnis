@@ -1,0 +1,166 @@
+Kota,Jenis-Bisnis,Format-Bisnis,Kepemilikan-Tempat-Usaha,Sejak-Sewa-Memiliki,Kapan-Beroperasi,Pertambahan-Karyawan,Jumlah-Karyawan,Karyawan-Paruh-Waktu,Pendapatan-Mingguan-Kotor,Pendapatan-Kotor-Liburan,Persentase-Pelanggan-Bermobil,Pelanggan-Member,Lokal,Non-Lokal,Belanja-Konsumen,Parkir
+Depok,Jasa,Pribadi,Sewa,2001,,Tetap,0,0,200,0,95,> 80%,> 80%,< 20%,75,Ada
+Depok,Jasa,Pribadi,Sewa,2008,2008,Bertambah,3,3,1000,500,98,41%-60%,41%-60%,41%-60%,30,Ada
+Depok,Jasa,Pribadi,Sewa,2012,2012,Bertambah,3,0,500,80,80,61%-80%,41%-60%,41%-60%,40,Tidak Ada
+Depok,Retail,Pribadi,Sewa,2006,2006,Bertambah,1,2,2500,3500,90,> 80%,> 80%,< 20%,,Ada
+Depok,Layanan Jasa,Non-Profit,Sewa,2012,2012,Tetap,5,2,500,80,50,20%-40%,41%-60%,20%-40%,30,Ada
+Depok,Jasa,Pribadi,Sewa,2011,2011,Tetap,2,0,150,150,90,> 80%,41%-60%,20%-40%,100,Tidak Ada
+Depok,Jasa,Perseroan Terbatas,Sewa,2012,2012,Tetap,1,1,1100,1100,70,> 80%,> 80%,< 20%,,Tidak Ada
+Depok,Retail,Perseroan Terbatas,Sewa,2014,2014,Bertambah,0,4,800,1000,90,> 80%,> 80%,< 20%,100,Tidak Ada
+Depok,Layanan Jasa,Pribadi,Sewa,2014,2014,Tetap,1,0,1200,2000,70,61%-80%,> 80%,< 20%,35,Tidak Ada
+Depok,Pasar Malam,Pribadi,Sewa,2005,2005,Tetap,2,0,900,900,40,> 80%,61%-80%,20%-40%,75,Tidak Ada
+Depok,Restaurant,Pribadi,Sewa,2013,2013,Tetap,3,2,500,600,,> 80%,> 80%,< 20%,20,Tidak Ada
+Depok,Jasa,Pribadi,Sewa,2002,2002,Tetap,1,0,500,80,,> 80%,> 80%,< 20%,20,Tidak Ada
+Depok,Layanan Jasa,Perseroan Terbatas,Sewa,2014,2014,Bertambah,3,7,3000,4000,69,41%-60%,> 80%,< 20%,45,Ada
+Depok,Retail,Pribadi,Sewa,2014,2014,Bertambah,3,2,300,1000,70,61%-80%,61%-80%,20%-40%,30,Ada
+Depok,Jasa,Perusahaan,Sewa,2006,2006,Tetap,4,3,500,80,100,> 80%,41%-60%,41%-60%,200,Tidak Ada
+Depok,Restaurant,Pribadi,Ya,2014,2014,Tetap,7,4,500,80,,,41%-60%,41%-60%,13,Tidak Ada
+Depok,Retail,Pribadi,Sewa,2000,2000,Tetap,8,0,500,80,100,> 80%,61%-80%,20%-40%,50,Tidak Ada
+Depok,Layanan Jasa,Perseroan Terbatas,Sewa,2008,2008,Bertambah,1,2,1000,1250,20,20%-40%,61%-80%,41%-60%,150,Tidak Ada
+Depok,Restaurant,Perseroan Terbatas,Ya,2005,2005,Tetap,5,2,1200,1800,49,> 80%,> 80%,< 20%,7,Ada
+Jakarta,Layanan Jasa,Pribadi,Sewa,2000,2000,Tetap,0,0,500,80,30,41%-60%,> 80%,< 20%,,Tidak Ada
+Depok,Restaurant,Perseroan Terbatas,Sewa,2009,2009,Tetap,7,2,1500,1800,38,> 80%,> 80%,< 20%,15,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2011,2011,Tetap,,1,500,80,,61%-80%,61%-80%,< 20%,10,Tidak Ada
+Depok,Retail,,Sewa,2003,2003,Bertambah,8,6,700,1100,60,> 80%,41%-60%,41%-60%,30,Tidak Jelas
+Depok,Retail,Partnership,Ya,1987,1987,Tetap,2,0,500,80,,,,,,Ada
+Bogor,Retail,Franchise,Sewa,1950,1950,Tetap,4,2,8500,8500,100,61%-80%,41%-60%,41%-60%,500,Ada
+Bogor,Restaurant,Perusahaan,Sewa,2015,2015,Bertambah,4,7,2600,3300,30,> 80%,41%-60%,20%-40%,10,Ada
+Bogor,Bioskop,Pribadi,Ya,1977,1977,Tetap,30,5,500,80,80,20%-40%,61%-80%,20%-40%,,Ada
+Bogor,Restaurant,Perusahaan,Sewa,2010,2010,Tetap,4,6,2400,2400,35,41%-60%,41%-60%,20%-40%,12,Tidak Ada
+Bogor,Restaurant,Perusahaan,Sewa,2010,2010,Bertambah,22,14,500,80,75,41%-60%,20%-40%,41%-60%,70,Ada
+Bogor,Restaurant,Perusahaan,Ya,2013,2013,Bertambah,0,6,400,600,0,20%-40%,< 20%,< 20%,15,Tidak Ada
+Bogor,Retail,Non-Profit,Ya,,,Tetap,,,500,80,0,,,,,Tidak Ada
+Tangerang,Restaurant,Franchise,Ya,2014,2014,Tetap,48,10,60000,52000,60,61%-80%,41%-60%,41%-60%,8,Ada
+Tangerang,Retail,Pribadi,Sewa,2015,2015,Tetap,2,0,500,80,25,< 20%,> 80%,< 20%,10,Tidak Ada
+Tangerang,Retail,Pribadi,Sewa,2005,2005,Tetap,2,0,100,150,,,,,,
+Tangerang,Jasa,Partnership,Sewa,2015,2015,Bertambah,1,1,500,,100,< 20%,> 80%,< 20%,100,Tidak Ada
+Tangerang,Restaurant,Perusahaan,Sewa,1995,1995,Tetap,3,6,4800,6000,75,> 80%,> 80%,< 20%,5,Tidak Ada
+Tangerang,Jasa,Pribadi,Sewa,1989,1989,Tetap,3,0,500,80,60,> 80%,> 80%,< 20%,0,Ada
+Tangerang,Retail,Perusahaan,Ya,1977,1977,Tetap,60,0,500,80,60,> 80%,> 80%,< 20%,15,Tidak Ada
+Tangerang,Retail,Kooperatif,Sewa,2014,2014,Bertambah,3,19,500,80,40,20%-40%,> 80%,< 20%,8,Tidak Ada
+Tangerang,Restaurant,Pribadi,Sewa,,,Tetap,1,,500,80,,> 80%,> 80%,< 20%,8,Ada
+Jakarta,Retail,Pribadi,Sewa,,,Tetap,2,,500,80,50,61%-80%,61%-80%,< 20%,,Tidak Ada
+Tangerang,Retail,Pribadi,Sewa,2001,2001,Bertambah,2,1,500,80,50,> 80%,> 80%,< 20%,10,Tidak Ada
+Tangerang,Retail,Pribadi,Sewa,2012,2012,Berkurang,0,0,20,0,1,< 20%,> 80%,< 20%,10,Tidak Ada
+Bogor,Restaurant,Pribadi,Sewa,1995,1995,Tetap,2,0,500,80,25,< 20%,41%-60%,< 20%,3,Tidak Ada
+Bogor,Restaurant,Pribadi,Sewa,2015,2015,Bertambah,15,,500,80,50,> 80%,> 80%,< 20%,15,Ada
+Bogor,Retail,Pribadi,Sewa,2013,2013,Tetap,2,2,1500,1700,20,41%-60%,> 80%,< 20%,5,Tidak Ada
+Bogor,Jasa,Pribadi,Sewa,1977,1977,Tetap,0,1,500,80,80,,< 20%,,50,Tidak Ada
+Bogor,Restaurant,Pribadi,Sewa,2015,2015,Bertambah,6,0,400,2000,10,< 20%,20%-40%,61%-80%,8,Ada
+Bogor,Retail,Pribadi,Sewa,2015,2015,Bertambah,1,2,400,400,40,20%-40%,20%-40%,41%-60%,50,Tidak Ada
+Bogor,Retail,Pribadi,Ya,1975,2005,Bertambah,4,3,500,80,,,,,,
+Bogor,Jasa,Pribadi,Sewa,2015,2015,Tetap,1,,500,80,10,20%-40%,20%-40%,61%-80%,3,Tidak Ada
+Bogor,Bar,Perusahaan,Sewa,2002,2002,Tetap,10,50,1300,2400,80,> 80%,20%-40%,61%-80%,25,Tidak Ada
+Bogor,Retail,Franchise,Sewa,2013,2013,Bertambah,3,0,1400,250,10,20%-40%,41%-60%,41%-60%,,Tidak Ada
+Bogor,Layanan Jasa,Pribadi,Sewa,2012,2012,Tetap,1,0,1400,250,50,41%-60%,> 80%,< 20%,,Tidak Ada
+Bogor,Layanan Jasa,Pribadi,Sewa,2012,2012,Bertambah,1,0,1400,250,15,> 80%,> 80%,< 20%,6,Tidak Ada
+Jakarta,Restaurant,Pribadi,Ya,2013,2013,Bertambah,15,4,1400,250,80,41%-60%,20%-40%,61%-80%,15,Tidak Ada
+Jakarta,Retail,Pribadi,Ya,1985,1985,Tetap,7,1,1400,250,20,61%-80%,61%-80%,< 20%,7,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,1997,1997,Tetap,0,1,1400,250,,,,,,
+Jakarta,Jasa,,Sewa,2000,2000,Tetap,4,,1400,250,40,,,,,Tidak Ada
+Jakarta,Sport,Partnership,Sewa,2001,2001,Tetap,0,1,1400,250,20,61%-80%,61%-80%,< 20%,20,Tidak Ada
+Jakarta,Layanan Jasa,Perusahaan,Sewa,1995,1995,Tetap,3,,1400,250,80,> 80%,41%-60%,20%-40%,250,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,,,Tetap,,4,1400,250,10,61%-80%,61%-80%,< 20%,40,Tidak Ada
+Jakarta,Restaurant,Pribadi,Sewa,1978,1978,Tetap,,,1400,250,,61%-80%,61%-80%,< 20%,15,Ada
+Jakarta,Retail,Pribadi,Sewa,1990,1990,Tetap,0,1,1400,250,5,> 80%,> 80%,< 20%,3,Tidak Ada
+Jakarta,Restaurant,Perusahaan,Sewa,2013,2013,Berkurang,1,1,1400,250,10,61%-80%,61%-80%,< 20%,10,Ada
+Jakarta,Retail,Pribadi,Sewa,1990,1990,Tetap,0,1,1400,250,,61%-80%,61%-80%,< 20%,15,Tidak Jelas
+Jakarta,Retail,Pribadi,Sewa,1987,1987,Tetap,,1,1400,250,5,> 80%,> 80%,< 20%,30,Tidak Ada
+Jakarta,Retail,Perusahaan,Sewa,,,Tetap,6,0,1400,250,50,61%-80%,61%-80%,< 20%,500,Tidak Ada
+Jakarta,Bioskop,Pribadi,Sewa,2011,2011,Tetap,1,1,1400,250,50,> 80%,> 80%,< 20%,5,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,1995,1995,Tetap,0,0,1400,250,,> 80%,> 80%,< 20%,10,Ada
+Jakarta,Klinik,,Sewa,,,Tetap,,,1400,250,30,> 80%,> 80%,< 20%,,Tidak Ada
+Jakarta,Sport,,Sewa,,,,,,1400,250,,,,,,
+Jakarta,Retail,Pribadi,Sewa,1995,1995,Tetap,2,0,1400,250,30,> 80%,> 80%,< 20%,5,Tidak Ada
+Jakarta,Restaurant,Pribadi,Sewa,,,,0,0,1400,250,,> 80%,> 80%,< 20%,2,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2012,2012,Tetap,,3,1400,250,50,> 80%,< 20%,< 20%,20,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2008,2008,Tetap,1,1,1400,250,10,> 80%,> 80%,< 20%,20,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2003,2003,Berkurang,,3,1400,250,80,> 80%,> 80%,< 20%,10,Tidak Ada
+Jakarta,Retail,Perusahaan,Sewa,1985,1985,Tetap,,,1400,250,,41%-60%,> 80%,< 20%,50,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2004,2004,Tetap,1,2,1400,250,10,> 80%,> 80%,< 20%,,Tidak Jelas
+Jakarta,Retail,Pribadi,Ya,2000,2000,Tetap,0,3,3200,250,10,> 80%,> 80%,< 20%,20,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2014,2014,,,,3200,250,,61%-80%,61%-80%,< 20%,3,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,1985,1985,Tetap,0,2,3200,250,70,> 80%,> 80%,< 20%,5,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,1997,1997,,,1,3200,250,,> 80%,> 80%,< 20%,10,Ada
+Jakarta,Toko Kelontong,Pribadi,Sewa,1985,1985,Tetap,4,,3200,250,40,> 80%,> 80%,< 20%,15,Tidak Ada
+Jakarta,Jasa,Pribadi,Sewa,,,Tetap,3,,3200,250,50,> 80%,> 80%,< 20%,,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2014,2014,Berkurang,0,0,3200,250,50,20%-40%,61%-80%,20%-40%,35,Tidak Ada
+Jakarta,Jasa,Pribadi,Sewa,2011,2011,Tetap,2,3,3200,250,50,> 80%,20%-40%,41%-60%,50,Tidak Ada
+Jakarta,Jasa,Pribadi,Sewa,,,Tetap,3,0,3200,250,,> 80%,> 80%,< 20%,,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2005,2005,Tetap,0,,3200,250,20,> 80%,> 80%,< 20%,10,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,1997,1997,Bertambah,2,0,3200,250,70,> 80%,41%-60%,41%-60%,30,Tidak Ada
+Jakarta,Jasa,Pribadi,Sewa,1999,1999,,,2,3200,250,10,> 80%,> 80%,< 20%,8,Tidak Ada
+Jakarta,Jasa,Pribadi,Sewa,2014,2014,Tetap,0,0,3200,250,50,> 80%,> 80%,< 20%,5,Tidak Ada
+Jakarta,Grosir,Partnership,Sewa,2015,2015,Tetap,1,1,3200,250,10,> 80%,61%-80%,< 20%,5,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2008,2008,Tetap,1,0,3200,250,20,> 80%,> 80%,< 20%,30,Tidak Ada
+Jakarta,Layanan Jasa,Pribadi,Ya,1995,1995,Tetap,3,0,3200,250,90,61%-80%,20%-40%,61%-80%,,Tidak Ada
+Jakarta,Layanan Jasa,Pribadi,Sewa,2013,2013,Tetap,0,1,3200,250,90,> 80%,< 20%,61%-80%,,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2014,2014,Tetap,,1,3200,250,75,< 20%,41%-60%,< 20%,30,Tidak Ada
+Jakarta,Retail,Pribadi,Sewa,2012,2012,Tetap,0,0,3200,250,25,> 80%,> 80%,< 20%,10,Tidak Ada
+Bekasi,Jasa,Pribadi,Sewa,2015,2015,Bertambah,2,1,3200,250,80,61%-80%,61%-80%,< 20%,15,Ada
+Bekasi,Retail,Pribadi,Sewa,2015,2015,Bertambah,1,0,3200,250,80,61%-80%,> 80%,< 20%,20,Ada
+Bekasi,Jasa,Pribadi,Sewa,2014,2014,Tetap,3,0,3200,250,,> 80%,> 80%,< 20%,,Ada
+Bekasi,Retail,Partnership,Sewa,2004,2004,Tetap,2,5,3200,250,90,> 80%,> 80%,< 20%,5,Tidak Ada
+Bekasi,Jasa,Pribadi,Sewa,2013,2013,Bertambah,1,0,3200,250,90,61%-80%,> 80%,< 20%,100,Tidak Ada
+Bekasi,Jasa,Pribadi,Sewa,1983,1983,Tetap,3,1,3200,250,90,41%-60%,61%-80%,< 20%,,Ada
+Bekasi,Retail,Pribadi,Sewa,2000,2000,Tetap,,1,3200,250,75,41%-60%,> 80%,< 20%,20,Ada
+Bekasi,Restaurant,Partnership,Sewa,2005,2005,Tetap,3,0,3200,250,80,61%-80%,> 80%,< 20%,20,Ada
+Bekasi,Retail,Pribadi,Sewa,2015,2015,Tetap,,,3200,250,,,,,,Tidak Ada
+Bekasi,Jasa,Partnership,Sewa,2005,2005,Tetap,2,1,3200,250,75,,20%-40%,41%-60%,20,Tidak Ada
+Bekasi,Layanan Jasa,Partnership,Sewa,2010,2010,Bertambah,0,0,3200,250,75,> 80%,> 80%,< 20%,1000,Tidak Ada
+Bekasi,Retail,Pribadi,Sewa,,,Tetap,1,3,3200,250,30,> 80%,61%-80%,< 20%,10,Ada
+Bekasi,Retail,Partnership,Sewa,2011,2011,Tetap,1,1,3200,250,100,> 80%,> 80%,< 20%,,Tidak Ada
+Bekasi,Sport,Pribadi,Sewa,2004,2004,Tetap,0,3,3200,250,60,20%-40%,20%-40%,20%-40%,10,Ada
+Bekasi,Jasa,Pribadi,Sewa,2004,2004,Tetap,12,3,3200,250,100,61%-80%,,,15,Ada
+Bekasi,Jasa,Pribadi,Sewa,2010,2010,Bertambah,1,1,3200,250,90,61%-80%,41%-60%,20%-40%,,Tidak Ada
+Bekasi,Layanan Jasa,Pribadi,Sewa,2008,2008,Tetap,2,0,3200,250,100,61%-80%,61%-80%,< 20%,,Ada
+Bekasi,Retail,Pribadi,Sewa,2009,2009,Tetap,0,0,3200,250,100,< 20%,,,,Tidak Ada
+Bekasi,Retail,Perusahaan,Sewa,2010,2010,Bertambah,2,1,3200,250,90,> 80%,> 80%,< 20%,,Tidak Ada
+Bekasi,Retail,Perusahaan,Sewa,2012,2012,Tetap,2,3,3200,250,90,> 80%,61%-80%,< 20%,,Ada
+Bekasi,Retail,Partnership,Sewa,2002,2002,,,4,3200,250,30,41%-60%,,,,Tidak Ada
+Bekasi,Restaurant,Partnership,Sewa,1985,1985,Bertambah,2,3,3200,250,80,> 80%,20%-40%,41%-60%,13,Tidak Ada
+Bekasi,Jasa,Partnership,Sewa,2011,2011,Tetap,,6,3200,250,75,61%-80%,61%-80%,< 20%,20,Tidak Ada
+Bekasi,Restaurant,,Sewa,,,,3,,3200,250,,,61%-80%,< 20%,8,Ada
+Bekasi,Jasa,Partnership,Sewa,,,Tetap,,1,3200,250,,> 80%,61%-80%,< 20%,,Ada
+Bekasi,Jasa,Pribadi,Ya,1957,1957,,,0,3200,250,,,,,,
+Bekasi,Restaurant,,Sewa,,,,5,0,3200,250,,,,,,
+Bekasi,Layanan Jasa,Pribadi,Sewa,2004,2004,Tetap,,,3200,250,100,> 80%,< 20%,> 80%,,Tidak Ada
+Bekasi,Layanan Jasa,Pribadi,Sewa,,,,0,0,3200,250,,,,,,Ada
+Bekasi,Layanan Jasa,Pribadi,Sewa,2005,2005,Bertambah,,,3200,250,100,41%-60%,61%-80%,< 20%,45,Ada
+Bekasi,Jasa,Perusahaan,Sewa,2014,2014,Bertambah,3,,3200,250,100,61%-80%,< 20%,61%-80%,,Tidak Ada
+Bekasi,Restaurant,Partnership,Sewa,2013,2013,Bertambah,4,0,3200,250,100,41%-60%,41%-60%,20%-40%,,Ada
+Bekasi,Layanan Jasa,Pribadi,Sewa,2014,2014,Tetap,2,,3200,250,90,61%-80%,61%-80%,< 20%,,Ada
+Bekasi,Layanan Jasa,Perusahaan,Sewa,2011,2011,Tetap,1,2,3200,250,80,61%-80%,> 80%,< 20%,49,Tidak Ada
+Bandung,Bioskop,Pribadi,Sewa,2012,2012,Tetap,1,,3200,250,,,61%-80%,< 20%,,Tidak Ada
+Bekasi,Jasa,Pribadi,Ya,1987,1987,Tetap,4,,3200,250,80,> 80%,41%-60%,41%-60%,,Tidak Ada
+Bekasi,Jasa,Pribadi,Sewa,1981,1981,Tetap,2,,3200,250,50,> 80%,20%-40%,41%-60%,,Ada
+Tangerang,Retail,Partnership,Sewa,1987,1987,Tetap,0,0,3200,250,20,> 80%,> 80%,< 20%,5,Tidak Ada
+Tangerang,Grosir Eceran,Pribadi,Sewa,2001,2001,Tetap,3,,3200,250,60,41%-60%,41%-60%,20%-40%,10,Tidak Ada
+Tangerang,Retail,Partnership,Sewa,2015,2014,Tetap,0,0,3200,250,10,20%-40%,20%-40%,61%-80%,10,Tidak Ada
+Tangerang,Jasa,Pribadi,Sewa,,,,3,0,3200,250,80,61%-80%,61%-80%,< 20%,,Tidak Ada
+Tangerang,Layanan Jasa,Pribadi,Sewa,2004,2004,Tetap,0,0,3200,250,80,61%-80%,> 80%,< 20%,75,Tidak Ada
+Tangerang,Grosir Eceran,Pribadi,Sewa,2008,2008,Bertambah,3,1,3200,250,10,> 80%,,,10,Tidak Ada
+Tangerang,Jasa,Pribadi,Sewa,2013,2013,Bertambah,2,0,3200,250,,> 80%,> 80%,< 20%,150,Tidak Ada
+Tangerang,Retail,Partnership,Sewa,2013,2013,Tetap,0,0,3200,250,80,41%-60%,> 80%,< 20%,30,Tidak Ada
+Tangerang,Toko Kelontong,Pribadi,Sewa,2005,2005,Tetap,0,0,3200,250,0,> 80%,> 80%,< 20%,2,Tidak Ada
+Tangerang,Jasa,Pribadi,Sewa,2014,2014,Bertambah,3,0,3200,250,60,> 80%,41%-60%,20%-40%,30,Tidak Ada
+Tangerang,Restaurant,Partnership,Sewa,2005,2005,Bertambah,3,2,3200,250,30,> 80%,< 20%,20%-40%,7,Tidak Ada
+Tangerang,Jasa,Partnership,Sewa,1988,1988,,2,0,3200,250,90,41%-60%,20%-40%,20%-40%,15,Tidak Ada
+Tangerang,Restaurant,Partnership,Sewa,2015,2015,Tetap,1,,3200,250,,,,,,Tidak Ada
+Tangerang,Sport,Partnership,Sewa,,,,,3,3200,250,,,61%-80%,< 20%,,
+Bandung,Retail,Perseroan Terbatas,Sewa,2012,2012,Tetap,,,3200,250,80,41%-60%,,,,Ada
+Bandung,Retail,Partnership,Sewa,1989,1989,Bertambah,1,0,3200,250,20,> 80%,41%-60%,41%-60%,,Tidak Ada
+Bandung,Retail,Pribadi,Sewa,2016,2016,Bertambah,2,4,550,1500,50,41%-60%,< 20%,> 80%,85,Ada
+Bandung,Retail,Perseroan Terbatas,Sewa,2015,2015,Bertambah,2,,3200,250,,< 20%,> 80%,< 20%,100,Ada
+Bandung,Retail,Pribadi,Sewa,,,Tetap,5,9,2000,5000,,> 80%,41%-60%,41%-60%,25,Ada
+Bandung,Retail,Pribadi,Sewa,2014,2014,Bertambah,0,,3200,250,20,41%-60%,> 80%,< 20%,20,Tidak Ada
+Bandung,Retail,Perseroan Terbatas,Sewa,2014,2014,Tetap,0,,3200,250,,> 80%,> 80%,< 20%,,Ada
+Bandung,Retail,Tidak Tahu,Sewa,2011,2011,Bertambah,3,0,3200,250,30,61%-80%,> 80%,< 20%,15,Tidak Ada
+Bandung,Jasa,Pribadi,Sewa,2006,2006,Tetap,2,,1500,2000,60,> 80%,> 80%,< 20%,,Tidak Ada
+Bandung,Jasa,Pribadi,Sewa,2010,2010,Berkurang,2,0,450,450,75,41%-60%,> 80%,< 20%,100,Ada
+Bandung,Retail,Pribadi,Sewa,2014,2014,Bertambah,1,1,3200,250,80,> 80%,41%-60%,41%-60%,50,Tidak Ada
+Bandung,Retail,Pribadi,Sewa,2014,2014,Tetap,1,0,3200,250,80,41%-60%,> 80%,< 20%,,Tidak Ada
+Bandung,Jasa,Pribadi,Ya,,,,,,3200,250,,,,,,
+Bandung,Pedagan Eceran,Pribadi,Sewa,2011,2014,Bertambah,1,0,700,700,75,> 80%,> 80%,< 20%,10,Tidak Ada
+Bandung,Retail,Perusahaan,Ya,1984,1984,Tetap,8,8,3200,250,80,> 80%,> 80%,< 20%,,Ada
+Bandung,Restaurant,Perseroan Terbatas,Ya,2006,2007,Tetap,10,4,2600,3500,75,> 80%,61%-80%,20%-40%,15,Tidak Ada
